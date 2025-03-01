@@ -10,8 +10,8 @@ import (
 	"regexp"
 	"syscall"
 
-	"github.com/Asladck/NewTestTask/api"
-	key "github.com/Asladck/NewTestTask/safeStuff"
+	"github.com/Asladck/WikiBot/api"
+	key "github.com/Asladck/WikiBot/safeStuff"
 	"github.com/bwmarrin/discordgo"
 	"github.com/jackc/pgx/v5"
 )

@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 	//"github.com/Asladck/NewTestTask/api"
-	"github.com/Asladck/NewTestTask/bot"
-	"github.com/Asladck/NewTestTask/sql"
+	"github.com/Asladck/WikiBot/bot"
+	"github.com/Asladck/WikiBot/sql"
 	"github.com/joho/godotenv"
 )
 
